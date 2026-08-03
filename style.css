@@ -167,7 +167,10 @@ flex-direction: column;
 gap: 30px;
 }
 .card{
-width: 300px;
+width: 230px;
+}
+#cards{
+height: 140px;
 }
 .end{
 margin-top: 10px;
@@ -204,11 +207,8 @@ flex-direction: column;
 
 }
 .card{
-width: 230px;
+width: 300px;
 margin-bottom: 30px;
-}
-#cards{
-height: 140px;
 }
 }
 
