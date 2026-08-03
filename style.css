@@ -204,8 +204,11 @@ flex-direction: column;
 
 }
 .card{
-width: 300px;
+width: 230px;
 margin-bottom: 30px;
+}
+#cards{
+height: 140px;
 }
 }
 
